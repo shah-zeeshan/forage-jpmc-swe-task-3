@@ -53,7 +53,7 @@ class Graph extends Component<IProps, {}> {
             }));
         }
     }
-
+// affdgsfdgffgdzffdgfgzdzdffgdf
     componentDidUpdate() {
         if (this.table) {
             this.table.update([
